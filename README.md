@@ -1,2 +1,2 @@
-# bifrost-contracts
-Smart Contracts for Bifrost Wallet
+# munchies-contracts
+Smart Contracts for Munchies Wallet
